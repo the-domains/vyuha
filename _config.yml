@@ -1,6 +1,6 @@
 name: Vyuha
 favicon: null
-layout_spectrum: 0.29851
+layout_spectrum: 0.75379
 typography_spectrum: 0.7829191780183464
 title: 'The official website of Vyuha Advisors & Consultants Private Limited'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#817974'
     - '#ab9773'
     - '#ffdd90'
-  brandStrength: 0.8125
-  lightness: 0
+  brandStrength: 0.375
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.75
 purpose: []
