@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Vyuha]]></title>
-        <description><![CDATA[Vyuha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The official website of Vyuha Advisors & Consultants Private Limited]]></title>
+        <description><![CDATA[The official website of Vyuha Advisors & Consultants Private Limited]]></description>
+        <link>https://thegrid.ai/vyuha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 12:42:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Dec 2015 12:52:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vyuha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to the official website of Vyuha Advisors, a Bangalore based comprehensive professional services firm with capabilities across]]></title>
             <description><![CDATA[<article><h1>Welcome to the official website of Vyuha Advisors, a Bangalore based comprehensive professional services firm with capabilities across</h1><p>Corporate Law</p></article>]]></description>
-            <link>undefinedwelcome-to-the-official-website-of-vyuha-advisors-a-bangalo/index.html</link>
+            <link>https://thegrid.ai/vyuha/welcome-to-the-official-website-of-vyuha-advisors-a-bangalo/index.html</link>
             <guid isPermaLink="false">beacbe52-9df3-4fd3-8643-6cd5d268fbc5</guid>
             <pubDate>Fri, 11 Dec 2015 12:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Areas of Expertise]]></title>
+            <description><![CDATA[<article><h1>Areas of Expertise</h1><p>Areas of
+Expertise</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23bf6d93-b526-49e7-917d-fee88922c42b.png"></article>]]></description>
+            <link>https://thegrid.ai/vyuha/areas-of-expertise/index.html</link>
+            <guid isPermaLink="false">e490b094-6f9e-43b9-85ee-2234f129af12</guid>
+            <pubDate>Fri, 11 Dec 2015 12:52:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
