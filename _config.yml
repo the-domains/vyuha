@@ -1,6 +1,6 @@
 name: Vyuha
 favicon: null
-layout_spectrum: 0.11490275827236474
+layout_spectrum: 0.29851
 typography_spectrum: 0.7829191780183464
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2050826190970838
-  lightness: 0.6108783087693155
-  saturation: 0.49129073647782207
-  rhythmicContrast: 0.4619031969923526
+    - '#574e49'
+    - '#ffb200'
+    - '#817974'
+    - '#ab9773'
+    - '#ffdd90'
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
